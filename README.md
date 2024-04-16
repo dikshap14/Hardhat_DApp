@@ -11,3 +11,7 @@ The basics of a Solidity smart contract that implements a token
 Writing automated tests for your contract using Hardhat
 Debugging Solidity with console.log() using Hardhat Network
 Deploying your contract to Hardhat Network and Ethereum testnets
+The basics of a Solidity smart contract that implements a token
+Writing automated tests for your contract using Hardhat
+Debugging Solidity with console.log() using Hardhat Network
+Deploying your contract to Hardhat Network and Ethereum testnets
